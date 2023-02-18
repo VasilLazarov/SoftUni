@@ -1,0 +1,14 @@
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.csproj.AssemblyReference.cache
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.AssemblyInfoInputs.cache
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.AssemblyInfo.cs
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.csproj.CoreCompileInputs.cache
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.exe
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.deps.json
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.runtimeconfig.json
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.runtimeconfig.dev.json
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.dll
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\bin\Debug\netcoreapp3.1\SoftUniKindergarten.pdb
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.dll
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.pdb
+C:\C#\C# Advanced\Projects\RealExam-18-02-2023\ex3\obj\Debug\netcoreapp3.1\SoftUniKindergarten.genruntimeconfig.cache
